@@ -1,0 +1,15 @@
+.exercise-preview {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    .title {
+      font-size: 28px;
+      margin-bottom: 25px;
+      color: #3399ff;
+    }
+    .preview {
+      display: flex;
+      justify-content: space-around;
+      color: #3399ff;
+    }
+  }
